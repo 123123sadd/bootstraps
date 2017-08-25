@@ -1,0 +1,177 @@
+/*head*/
+.containerd1{
+	overflow: hidden;
+	margin: 40px auto;
+	width: 1190px;
+}
+.d_container-fluid{
+	overflow: hidden;
+	width: 100%;
+	background: #F2F2F2;
+}
+.d_padi{
+	padding: 0 !important;
+}
+.d_mag{
+	margin: 0 !important;
+	
+}
+.activ{
+	margin: 0 5px;
+	margin-top: 5px;
+	float: right;
+	height: 25px;
+	width: 1px;
+	background: #E0E0E0;
+}
+.d_logo img{
+	width: 135px;
+	height: 37px;
+}
+.d_top a{
+	
+	color:black;
+	text-decoration: none;
+	font-size: 12px;
+	float: left;
+	margin: 0 !important;
+	padding: 8px 5px;
+}
+.d_redp{
+	color: #ED145B !important;
+}
+.d_huip{
+	color: #666666 !important;
+}
+
+.d_float a{
+	text-decoration: none;
+	float: right;
+	display: block;
+	padding: 8px 5px;
+	color: #666666 !important;
+}
+.d_float img{
+	vertical-align:auto !important;
+	margin: 0 3px;
+}
+.input1{
+	background: url(../img/sousuo_03.png)no-repeat left;
+	padding-left: 35px;
+	outline: none;
+	margin-left: -30px;
+	float: left;
+	border: 2px solid #ED145B;
+	width: 80%;
+	height: 33px;
+}
+.input2{
+	border: none;
+	outline: none;
+	font-family: "宋体";
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 33px;
+	text-align: center;
+	color: white;
+	width: 11%;
+	height: 33px;
+	background: #ED145B;
+	float:left;
+
+}
+.dcol-sm-4{
+	width: 33.3%;
+	float: left;
+}
+.dcol-sm-6{
+	width: 50%;
+	float: left;
+}
+body{
+	min-width: 1190px;
+}
+
+/*foot*/
+.fild{
+	overflow: hidden;
+	background: #F5F5F5;
+	border-top: 2px solid #ED145B;
+	width: 100%;
+}
+.d_floarig{
+	text-align: center;
+	margin-top: 15px  ;
+	margin-bottom: 15px  ;
+}
+.d_floarig p{
+	margin-top: 5px;
+}
+.d_floarig img{
+	display: block;
+	margin: 0 auto;
+}
+.magleft{
+	margin-left: 11%;
+}
+.flaorigt{
+	float: right;
+}
+.list-style{
+	overflow: hidden;
+	margin-top: 15px;
+	font-family: "宋体";
+}
+.dcol-sm-2{
+	width: 16.66%;
+	float: left;
+}
+.list-style ul li{
+	padding:5px 0;
+	
+	list-style: none;
+}
+.list-style a{
+	text-decoration: none;
+	color: #898989;
+}
+.list-style a:hover{
+	font-weight: bold;
+	color: black;
+}
+.list-style ul{
+	padding-left: 0;
+}
+.ul1{
+	float: left;
+	width: 10%;
+}
+.ul2{
+	text-align: center;
+	float: left;
+	width: 15%;
+}
+.ul3{
+	float: left;
+	width: 14%;
+}
+.containerd{
+	margin: 0 auto;
+	width: 1190px;
+}
+.ul3 img{
+	display: block;
+	margin: 0 auto;
+}
+.fenge{
+	float: left;
+	width: 1px;
+	height: 160px;
+	background:#E6E6E6 ;
+}
+.text{
+	color: #999999;
+	margin-top: 8px;
+	text-align: center;
+	margin-bottom: 20px;
+}
